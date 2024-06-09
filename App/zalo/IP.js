@@ -1,0 +1,1 @@
+export const IP ="http://192.168.2.123:8800"
